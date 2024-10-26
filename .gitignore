@@ -48,6 +48,8 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 test-gpt.py
+main2010.py
+main2310.py
 
 # Unit test / coverage reports
 htmlcov/
