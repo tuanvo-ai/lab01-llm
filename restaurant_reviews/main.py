@@ -410,7 +410,7 @@ def main(user_query: str):
             'message': overall_score_agent_prompt,
             'summary_method': "reflection_with_llm",
             # 'summary_method': "last_msg",
-            'max_turn': 1}
+            'max_turn': 1}]
     #results = entrypoint_agent.initiate_chats(chat_info)
     #print(results)
     return score
